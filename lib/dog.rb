@@ -9,7 +9,12 @@ return scrappy
 mcgruff = Dog.new
 return mcgruff
 
-class Person
+class person
 end
+adele_goldberg = person.new
+alan_kay = person.new
+return adele_goldberg
+return alan_kay
+
 
 
