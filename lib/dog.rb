@@ -3,5 +3,6 @@ class Dog
 end
 
 scooby = Dog.new 
+scooby
 
 
