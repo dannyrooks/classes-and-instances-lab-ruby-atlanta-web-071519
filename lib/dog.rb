@@ -9,5 +9,7 @@ return scrappy
 mcgruff = Dog.new
 return mcgruff
 
+class Person
+end
 
 
